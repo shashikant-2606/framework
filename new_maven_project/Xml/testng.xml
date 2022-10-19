@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.new_maven_project.test_case.login_test_case"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
